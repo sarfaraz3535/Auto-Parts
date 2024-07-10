@@ -1,0 +1,135 @@
+#logo-pic{
+    width: 200px;
+    padding-top: 10px;
+}
+#buy{
+    border: 2px solid black;
+    height: 55px;
+    width: 100%;
+    background-color: #262626;
+    position: fixed;
+
+}
+#btn-buy{
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 35px;
+    width: 100px;
+    color: white;
+    cursor: pointer;
+    background-color: #82b440;
+    margin-left: 1350px;
+    margin-top: 10px;
+}
+#btn-buy:hover{
+    background-color: #74a03a;
+}
+
+#con-div{
+    border: 2px solid black;
+    height: 100px;
+    background-color: #262626;
+    margin-top: 0px;
+
+}
+#img-d{
+    cursor: pointer;
+}
+#diag{
+    display: flex;
+    padding-left: 180px;
+}
+#img-time{
+    margin: 30px;
+
+}
+
+#p-time{
+    color: white;
+    font-size: 18px;
+    margin-top: 35px;
+    font-family: lato ;
+}
+
+#nav-bar{
+    border: 2px solid black;
+    display: flex;
+}
+li{
+    list-style: none;
+    font-family: helvetica neue, Helvetica, Arial, sans-ser;
+    cursor: pointer;
+    font-size: 19px;
+}
+ul :hover{
+    color: blue;
+}
+ul{
+    display: flex;
+    padding-left: 160px;
+}
+ul li{
+    margin: 25px;
+}
+
+#img-bg1{
+    color: white;
+    width: 100%;
+    height: 1000px;
+    background-image: url("assets/slider1_background-1.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#div-h1{
+    padding-top: 50px;
+    font-size: 45px;
+    text-align: center;
+    font-family: helvetica neue, Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+#div-p1{
+    font-size: 25px;
+    text-align: center;
+    font-family: helvetica neue, Helvetica, Arial, sans-serif;
+}
+#btn-serv{
+    height: 50px;
+    width: 150px;
+    background-color: #1f71d0;
+    color: white;
+    margin-top: 20px;
+    display: block;
+    margin: auto;
+}
+#mail-link{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: #1163fa;
+    cursor: pointer;
+    position: fixed;
+    margin-left: 92%;
+    margin-top: 40%;
+    color: white;
+    text-align: center;
+}
+#mail-link:hover{
+    background-color: #2b09ea;
+}
+/* #prhs{
+    border: 2px solid white;
+    height: 50px;
+    width: 100px;
+    background-color: red;
+    margin-top: 100px;
+    position: fixed;
+}
+#rltd{
+    border: 2px solid white;
+    height: 50px;
+    width: 100px;
+    background-color: red;
+    margin-top: 100px;
+    position: fixed;
+} */
