@@ -1,3 +1,10 @@
+.main-div{
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
 #logo-pic{
     width: 200px;
     padding-top: 10px;
@@ -8,6 +15,7 @@
     width: 100%;
     background-color: #262626;
     position: fixed;
+    top: 0;
 
 }
 #btn-buy{
@@ -71,6 +79,12 @@ ul{
 ul li{
     margin: 25px;
 }
+.menu-logo{
+    height: 50px;
+    width: 50px;
+    padding-top: 25px;
+    padding-left: 350px;
+}
 
 #img-bg1{
     color: white;
@@ -113,6 +127,11 @@ ul li{
     margin-top: 40%;
     color: white;
     text-align: center;
+}
+.mail-img{
+    height: 50px;
+    width: 60px;
+    padding-top: 15px;
 }
 #mail-link:hover{
     background-color: #2b09ea;
